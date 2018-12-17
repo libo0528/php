@@ -1,3 +1,2 @@
 <?php
-	echo 'hello world';
-	12334435645765;
+	echo '哪来的妖怪！';
