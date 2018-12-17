@@ -1,2 +1,2 @@
 <?php
-	echo '哪来的妖怪！';
+	echo 'hello world';
